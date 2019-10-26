@@ -8,7 +8,7 @@ water= 2
 beer= 6
 
 
-if order= "cocktail"
+if order == "cocktail"
 cocktail + 1 
 elsif order= "water"
 water + 1
