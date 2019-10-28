@@ -15,16 +15,16 @@
 user_id = "luisa"
 #user_id = true
 
-pin = "ziccarelli"
+pin = "0000"
 #pin = true 
 
 puts "Hi, please enter your user id. Your user id is usually your first name"
 user_id = gets.chomp.to_s
 
-if user_id == "Amy"
+if user_id == "luisa"
     puts "Great, please enter your pin. Your pin is usually your last name"
     pin = gets.chomp.to_s
-    if pin == "last name"
+    if pin == "0000"
         puts "Welcome!"
     end 
 else 
