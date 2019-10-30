@@ -1,3 +1,4 @@
+# challenge 3 
 colors_rainbow = [ "yellow" , "green" , "blue" , "indigo" , "violet" , "red" , "orange" ]
 i = "purple" 
 
