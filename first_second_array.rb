@@ -1,3 +1,4 @@
+#Challenges 6 -9
 #first =  ["Tommy", "Fred", "Bob", "Charlie"]
 #second = ["Tony", "Rhonda" ]
 
@@ -8,6 +9,8 @@
 #puts first.include?('Fred')
 #puts first.sample(2)
 
+
+#challenge 10 
 array_integers = [ 1, 2, 3, 3, 2, 1, 7 , 8]
 
 puts array_integers.sum 
